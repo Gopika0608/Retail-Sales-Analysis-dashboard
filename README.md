@@ -1,4 +1,5 @@
 Project Title
+
 Retail Sales Analysis Dashboard | Power BI Business Intelligence Project
 
 Project Description
@@ -88,4 +89,4 @@ Helps optimize shipping and operational costs.
 
 
 Dashboard Screenshot
-Retail Sales Analysis Dashboard[https://github.com/Gopika0608/Retail-Sales-Analysis-dashboard/blob/main/retail_sales_analysis.png]
+Retail Sales Analysis Dashboard(https://github.com/Gopika0608/Retail-Sales-Analysis-dashboard/blob/main/retail_sales_dashboard.png)
