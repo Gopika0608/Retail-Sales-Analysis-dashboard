@@ -69,6 +69,7 @@ Region-based slicers for dynamic exploration
 
 
 Key Business Questions Answered
+
 Which region contributes the highest sales revenue?
 How do sales and profits vary month-over-month?
 Which customer segment generates the most revenue?
@@ -82,6 +83,7 @@ How does operational efficiency impact customer delivery experience?
 
 
 Business Impact / Insights
+
 Revenue Growth Opportunities
 West and East regions contribute the highest share of sales.
 Consumer segment generates nearly half of total revenue.
