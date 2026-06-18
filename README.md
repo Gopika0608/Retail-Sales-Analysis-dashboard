@@ -3,6 +3,7 @@ Project Title
 Retail Sales Analysis Dashboard | Power BI Business Intelligence Project
 
 Project Description
+
 This Power BI dashboard provides a comprehensive analysis of retail sales performance across different regions, states, customer segments, categories, and shipping methods. It helps business stakeholders monitor key performance indicators (KPIs), identify revenue-driving segments, analyze profitability trends, and make data-driven decisions to improve sales and operational efficiency.
 
 Tech Stack
