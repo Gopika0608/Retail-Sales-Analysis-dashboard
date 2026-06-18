@@ -7,21 +7,32 @@ This Power BI dashboard provides a comprehensive analysis of retail sales perfor
 
 Tech Stack
 Power BI Desktop – Dashboard Development & Visualization
+
 Power Query – Data Cleaning & Transformation
+
 DAX (Data Analysis Expressions) – KPI Calculations & Measures
+
 Excel / CSV Dataset – Data Source
+
 Power BI Maps & Charts – Geographical and Trend Analysis
+
 
 Data Source
 Sample Superstore Retail Dataset (commonly used for BI and analytics projects)
 
 Dataset Contains:
 Order Details
+
 Sales & Profit Information
+
 Customer Segments
+
 Product Categories & Sub-Categories
+
 Shipping Modes
+
 Regional & State-wise Sales Data
+
 Order Dates
 
 Features / Highlights
